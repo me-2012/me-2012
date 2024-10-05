@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @me-2012 (You can call me Ani)
-- 👀 I’m interested in tach
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning C# and 3D Modeling
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can solve a Rubik's Cube!
